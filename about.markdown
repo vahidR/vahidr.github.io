@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Vahid Rafiei, a Backend & DevOps engineer based in Stockholm, Sweden.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a Java Backend Developer with a broad knowledge of DevOps and Security.
+I'm mostly obsessed with the Microservice-based Cloud Architecture and API Security.
+For DevOps, I use Docker, Kubernetes, GCloud, Jenkins, Scriptings (Ruby, Python, Groovy, Bash), and many state-of-art tools to accomplish the targets.
