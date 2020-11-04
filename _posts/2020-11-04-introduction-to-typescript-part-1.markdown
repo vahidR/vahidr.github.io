@@ -49,4 +49,4 @@ TS also supports the anonymous functions/lambdas/arrow functions which are defin
 
 Finally, for this short tutorial, I must say that by using TS, you have a semantic way of structuring the data in your application. You have Modules and Namespaces, you have Interfaces, Classes, Properties, and Methods, like any other sane Object-Oriented language.
 
-In the following tutorial, I will discuss the Types, Variables, and Functions.
+In the [following tutorial](https://vahid-r.com/introduction-to-typescript-part-2), I will discuss the Types, Variables, and Functions.
