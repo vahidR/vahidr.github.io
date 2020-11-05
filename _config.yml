@@ -54,3 +54,5 @@ plugins:
 #   - vendor/ruby/
 
 permalink: /:title
+
+google_analytics: G-279L2FDD3M
