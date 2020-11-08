@@ -69,13 +69,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.1.1)
-  jekyll-feed (~> 0.12)
+  jekyll-feed
   jekyll-seo-tag
-  minima (~> 2.5)
-  tzinfo (~> 1.2)
-  tzinfo-data
-  wdm (~> 0.1.1)
+  minima
 
 BUNDLED WITH
    2.1.4
