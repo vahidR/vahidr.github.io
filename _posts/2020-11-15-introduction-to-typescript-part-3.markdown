@@ -5,6 +5,8 @@ date: 2020-11-15 13:09:48 +0100
 categories: typescript
 ---
 
+![Credit: Bernardo Lorena Ponte](https://images.unsplash.com/photo-1605100970536-2046737bc76d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+
 # Classes and Interfaces
 In this tutorial, I will discuss the Classes and Interfaces in TypeScript.
 As I have mentioned before, I'm mainly a backend developer, and look at the frontend world as such.
