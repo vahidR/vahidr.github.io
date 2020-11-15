@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to TypeScript, Part 3/4"
-date: 2020-11-04 11:38:48 +0100
+date: 2020-11-15 13:09:48 +0100
 categories: typescript
 ---
 
