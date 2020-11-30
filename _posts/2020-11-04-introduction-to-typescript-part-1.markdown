@@ -8,9 +8,9 @@ categories: typescript
 ![Credit: Jan Huber](https://images.unsplash.com/photo-1604238375869-8fa40deb74a5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80)
 
 ### Table of Contents
-Part I - [Introduction](https://vahid-r.com/introduction-to-typescript-part-1)
-Part II - [Types, Variables, and Functions](https://vahid-r.com/introduction-to-typescript-part-2)
-Part III - [Classes and Interfaces](https://vahid-r.com/introduction-to-typescript-part-3)
+Part I - [Introduction](https://vahid-r.com/introduction-to-typescript-part-1)  
+Part II - [Types, Variables, and Functions](https://vahid-r.com/introduction-to-typescript-part-2)  
+Part III - [Classes and Interfaces](https://vahid-r.com/introduction-to-typescript-part-3)  
 Part IV - [Modules](https://vahid-r.com/introduction-to-typescript-part-4)
 
 This weekend, I decided to teach myself TypeScript. As it is my learning style, I always take notes and put them in the Anki spaced repetition system when I learn a new subject in any field.

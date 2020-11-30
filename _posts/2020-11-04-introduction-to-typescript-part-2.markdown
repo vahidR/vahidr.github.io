@@ -8,9 +8,9 @@ categories: typescript
 ![Credit: Alessandro Rossi](https://images.unsplash.com/photo-1604142056225-1feabdac3af1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80)
 
 ### Table of Contents
-Part I - [Introduction](https://vahid-r.com/introduction-to-typescript-part-1)
-Part II - [Types, Variables, and Functions](https://vahid-r.com/introduction-to-typescript-part-2)
-Part III - [Classes and Interfaces](https://vahid-r.com/introduction-to-typescript-part-3)
+Part I - [Introduction](https://vahid-r.com/introduction-to-typescript-part-1)  
+Part II - [Types, Variables, and Functions](https://vahid-r.com/introduction-to-typescript-part-2)  
+Part III - [Classes and Interfaces](https://vahid-r.com/introduction-to-typescript-part-3)  
 Part IV - [Modules](https://vahid-r.com/introduction-to-typescript-part-4)
 
 
