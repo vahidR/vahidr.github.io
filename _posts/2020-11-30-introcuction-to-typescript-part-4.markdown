@@ -17,7 +17,6 @@ Part IV - [Modules](https://vahid-r.com/introduction-to-typescript-part-4)
 This is the last part of the 4-part series on my learning notes about TypeScript. 
 In this part, I am going to share my understanding of the TypeScript **modules**.
 
-
 ## Why Modules?
 When you are dealing with large-scale projects, and have to split the domain among different people and teams, you have to have a way to structure the code in a sustainable manner. 
 This is vital, as developing software, nowadays, is more like a sports team where everyone focuses on one or a few particular domains. 
@@ -109,7 +108,6 @@ You can decide which one to use in the compile-time
 ```bash
 $ tsc --moduleResolution Classic | Node
 ```
-
 
 ## Resolving Classic Relative Imports
 Imagine that you have a file called *payment.ts* as follow
