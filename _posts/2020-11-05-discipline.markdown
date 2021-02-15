@@ -3,6 +3,7 @@ layout: post
 title: "How I tasted a disciplined life"
 date: 2020-11-05 21:19:48 +0100
 categories: general
+comments: true
 ---
 
 ![Credit: Stijn Swinnen](https://images.unsplash.com/photo-1494972688394-4cc796f9e4c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)

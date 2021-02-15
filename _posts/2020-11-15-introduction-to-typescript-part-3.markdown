@@ -3,6 +3,7 @@ layout: post
 title: "Introduction to TypeScript, Part 3/4"
 date: 2020-11-15 13:09:48 +0100
 categories: typescript
+comments: true
 ---
 
 ![Credit: Bernardo Lorena Ponte](https://images.unsplash.com/photo-1605100970536-2046737bc76d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)

@@ -3,6 +3,7 @@ layout: post
 title: "Why mentality is of the utmost importance "
 date: 2020-11-04 12:38:48 +0100
 categories: general
+comments: true
 ---
 
 ![Credit: Lāsma Artmane](https://images.unsplash.com/photo-1573590330099-d6c7355ec595?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
