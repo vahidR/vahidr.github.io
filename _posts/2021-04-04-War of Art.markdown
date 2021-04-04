@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review: The War of Arts"
+title: "Book Review: The War of Art, Winning the Inner Creative Battle"
 date: 2021-04-04 21:11:48 +0100
 categories: books
 comments: true
