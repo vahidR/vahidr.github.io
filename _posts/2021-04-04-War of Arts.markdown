@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Book Review: The War of Arts"
+date: 2021-04-04 21:11:48 +0100
+categories: books
+comments: true
+---
+
+![Credit: K. Mitch Hodge](https://images.unsplash.com/photo-1572961141971-3e564f12fcf0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1490&q=80)
+
+This is one of those books that put marks on one's life. Something like a punch in the face and an awakening voice.
+A masterpiece, I must say.
+Although the author is a professional writer (mostly fiction books) and is religious (and it bends his arguments towards the mumbo jumbo sides sometimes), his message is solid and profound.
+
+Here is a gist of it:
+Between you and your true self, there is a gap which is called "Resistance". This resistance is created and fueled by "Fear".
+Anyone's primary and the most vital duty is to fight this resistance (hence the fear) by doing "Action" against it in the very moment of life when she feels it.
+
+If you are familiar with mythology, you know that we have lots of demons and angels. The Resistance (and fear) is one of those demons that needs a constant and permanent battle at every moment.
+Something like fighting "Ahriman" in Zoroastrianism.
+
+I do recommend this book to anyone who is suffering from procrastination. The book is full of metaphors (or is it?) so be aware of the language delicates...
+
